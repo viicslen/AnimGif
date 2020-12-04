@@ -1,9 +1,9 @@
 {
-    "name": "lunakid/anim-gif",
+    "name": "viicslen/anim-gif",
     "type": "library",
     "description": "PHP class to create an animated GIF from multiple images",
     "keywords": ["gif", "animated", "creation", "encode", "PHP"],
-    "homepage": "https://github.com/lunakid/AnimGif",
+    "homepage": "https://github.com/viicslen/AnimGif",
     "license": "MIT",
     "authors": [
         {
