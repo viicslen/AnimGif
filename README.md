@@ -5,6 +5,12 @@
 AnimGif is a PHP class to create animated GIFs -- just list the source images (in various forms), and that's it!
 
 
+### Installation
+
+```bash
+composer install viicslen/AnimGif
+```
+
 ### Usage
 
 **1. Inputs:**
